@@ -25,7 +25,6 @@
             <artifactId>json</artifactId>
             <version>20180130</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/com.mailjet/mailjet-client -->
         <dependency>
             <groupId>com.mailjet</groupId>
             <artifactId>mailjet-client</artifactId>
